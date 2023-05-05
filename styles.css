@@ -1,0 +1,306 @@
+.body, html {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+
+    background-color: #F5F5F5;
+}
+
+.container {
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.left {
+    height: 103vh;
+    width: 5%;
+    display: inline-block;
+    background-color: #FFFFFF;
+
+}
+
+.top {
+    height: 9vh;
+    width: 80%;
+    display: inline-block;
+    margin-bottom: 46.6%;
+    background-color: #FFFFFF;
+
+}
+
+.center {
+    height: 103vh;
+    width: 25%;
+    position: absolute;
+    left: 8.6%;
+    top:15.45%;
+    background:#E4EDF4;
+}
+
+.menu {
+    position: absolute;
+    left: 4%;
+    top: 8%;
+}
+
+.left-icons {
+    position: absolute;
+    top: 35%;
+    left: 4.6%;
+
+}
+
+.mask {
+    margin-bottom: 4vh; 
+}
+
+.shape2 {
+    margin-bottom: 4vh; 
+    margin-left: 25%;
+    
+
+}
+.shape3 {
+    margin-bottom: 4vh; 
+    margin-left: 25%;
+
+}
+
+.top-icons {
+
+    position: absolute;
+    top: 11%;
+    left: 10%;
+}
+
+.top-icons-center {
+
+    position: absolute;
+    top: 11%;
+    left: 32%;
+}
+
+.top-icons-right {
+
+    position: absolute;
+    top: 8%;
+    right: 20%;
+
+}
+
+.p {
+    margin-top: -11%;
+}
+
+.sv {
+    position: absolute;
+top:9%;
+right: 16%;
+}
+
+.box1,.box2,.box3,.box4 {
+    height: 16vh;
+    width: 20vh;
+    background:#FFFFFF;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 2%;
+    color: #068EEE;
+}
+
+.center-boxes p,.center-boxes h2  {
+    margin-left: 8%;
+}
+
+.center-boxes p{
+    font-size: 12px;
+}
+
+.box5, .box6 {
+    height: 28vh;
+    width: 42.5vh;
+    background:#FFFFFF;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 5%;
+    margin-left: 7%;
+    color: #068EEE;
+}
+
+.Abdul1 {
+    margin-left: 10%;
+}
+
+.Abdul2 {
+    margin-top: -1%;
+}
+
+.flex-container {
+
+    position: absolute;
+    left:37%;
+    top: 22%;
+    width: 48%;
+    height: 70vh;
+    overflow:hidden;
+    
+
+}
+
+.rightbox-1{
+
+    width: 12vw;
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 20vh;
+   
+}
+
+.rightbox-2{
+
+    width: 12vw;
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 20vh;
+    position: absolute;
+    top: 0;
+    right: 46%;
+   
+}
+
+.rightbox-3{
+
+    width: 12vw;
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 20vh;
+    position: absolute;
+    top: 0;
+    right:17.3%;
+}
+
+.rightbox-overflow{
+
+    width: 12vw;
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 20vh;
+    position: absolute;
+    top: 0;
+    left: 86%;
+    z-index: -1;
+
+}
+
+.rightbox-4{
+
+    width: 12vw;
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 20vh;
+    position: absolute;
+    top: 38%;
+    left:0;
+}
+
+.rightbox-5{
+
+    width: 12vw;
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 20vh;
+    position: absolute;
+    top: 38%;
+    right: 46%;
+}
+
+.lower-content {
+
+    margin-left: 6%;
+}
+
+.phot {
+    margin-left: 6%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.opd {
+
+    position: absolute;
+    top: 15%;
+    right: 16%;
+    width: 46.8%;
+}
+
+button {
+    height: 5vh;
+    color: white;
+    border-radius: 13px;
+    margin-top: 1%;
+    width: 11vw;
+    background-color: #068EEE;
+}
+
+.graph {
+    margin-left: -2%;
+}
+
+.k {
+
+    font-size: 10px;
+    margin-left: 10%;
+    margin-top: 13%;
+    color: #343645;
+}
+
+.k div {
+
+    margin-bottom: 45%;
+}
+
+.graph-wrap {
+    display: flex;
+    color: #343645;
+}
+
+.graph-item img{
+    margin-left: 27%;
+}
+
+.graph-item {
+    margin-left: 30%;
+}
+
+.image-container {
+
+    position: absolute;
+    top: 18%;
+    left: 15.3%;
+}
+
+.image-container2 {
+
+    position: absolute;
+    top:36%;
+    left: 26.2%;
+}
+
+.image-container3 {
+
+    position: absolute;
+    top:36%;
+    left: 15.3%;
+}
+
+.image-container4 {
+
+    position: absolute;
+    top: 18%;
+    left: 26.2%;
+}
